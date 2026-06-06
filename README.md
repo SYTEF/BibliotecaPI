@@ -1,11 +1,11 @@
-# 📚 Sistema de Gerenciamento de Biblioteca
+# Sistema de Gerenciamento de Biblioteca
 
 ## Status do Projeto
-🚧 **Em Desenvolvimento**
+**Em Desenvolvimento**
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Java** — linguagem de programação principal
 - **Java Swing** — construção das interfaces gráficas (GUI Builder - NetBeans)
 - **MySQL 8.0** — banco de dados relacional
@@ -15,38 +15,38 @@
 
 ---
 
-## 👨‍💻 Time de Desenvolvedores
+##  Time de Desenvolvedores
 | Nome | Função |
 |------|--------|
 | Enzo | Desenvolvedor Full Stack |
 
 ---
 
-## 🎯 Objetivo do Software
+## Objetivo do Software
 O Sistema de Gerenciamento de Biblioteca tem como objetivo automatizar e organizar as operações de uma biblioteca, permitindo o controle de acervo de livros, cadastro de usuários e gerenciamento de empréstimos e devoluções, substituindo processos manuais por um sistema digital eficiente.
 
 ---
 
-## ⚙️ Funcionalidades do Sistema
+## Funcionalidades do Sistema
 
-### 🔐 Autenticação
+### Autenticação
 - Login com usuário e senha
 - Controle de acesso ao sistema
 
-### 📖 Gerenciamento de Livros
+### Gerenciamento de Livros
 - Cadastrar novos livros (título, autor, categoria)
 - Editar informações de livros existentes
 - Excluir livros do acervo
 - Consultar e buscar livros por título ou autor
 - Controle de disponibilidade (disponível / emprestado)
 
-### 👥 Gerenciamento de Usuários
+### Gerenciamento de Usuários
 - Cadastrar novos usuários (nome, CPF, e-mail)
 - Editar dados de usuários
 - Excluir usuários
 - Buscar usuários por nome ou CPF
 
-### 🔄 Empréstimos e Devoluções
+### Empréstimos e Devoluções
 - Registrar novo empréstimo vinculando livro e usuário
 - Listar empréstimos ativos
 - Registrar devolução de livros
@@ -54,14 +54,14 @@ O Sistema de Gerenciamento de Biblioteca tem como objetivo automatizar e organiz
 
 ---
 
-## 🗄️ Banco de Dados
+## Banco de Dados
 - Banco: **MySQL**
 - Tabelas: `livros`, `usuarios`, `emprestimos`
 - Script de criação disponível no arquivo `biblioteca.sql`
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 ### Pré-requisitos
 - Java JDK 8 ou superior
@@ -81,7 +81,7 @@ O Sistema de Gerenciamento de Biblioteca tem como objetivo automatizar e organiz
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 ```
 BibliotecaPI/
 ├── src/
