@@ -5,13 +5,23 @@
 
 ---
 
-## Tecnologias Utilizadas
-- **Java** — linguagem de programação principal
-- **Java Swing** — construção das interfaces gráficas (GUI Builder - NetBeans)
-- **MySQL 8.0** — banco de dados relacional
-- **JDBC** — conexão entre Java e MySQL
-- **NetBeans IDE** — ambiente de desenvolvimento
-- **GitHub** — versionamento e controle de código fonte
+<h1 align="center"> Sistema de Gerenciamento de Biblioteca</h1>
+
+<p align="center">
+  Aplicação desktop desenvolvida em Java para gerenciamento de livros,
+  usuários, empréstimos e devoluções.
+</p>
+
+<p align="center">
+  <code>Java</code> ·
+  <code>Java Swing</code> ·
+  <code>MySQL</code> ·
+  <code>JDBC</code>
+</p>
+
+---
+
+> Projeto acadêmico desenvolvido durante a formação em Desenvolvimento de Sistemas, com foco em orientação a objetos, banco de dados e integração Java/MySQL.
 
 ---
 
