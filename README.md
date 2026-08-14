@@ -30,8 +30,11 @@
 
 ---
 
-## Objetivo do Software
-O Sistema de Gerenciamento de Biblioteca tem como objetivo automatizar e organizar as operações de uma biblioteca, permitindo o controle de acervo de livros, cadastro de usuários e gerenciamento de empréstimos e devoluções, substituindo processos manuais por um sistema digital eficiente.
+##  Objetivo do Projeto
+
+Desenvolver uma aplicação desktop para gerenciamento de biblioteca, aplicando na prática conceitos de orientação a objetos, interface gráfica, banco de dados relacional e integração Java/MySQL.
+
+O sistema permite centralizar o controle de livros, usuários, empréstimos e devoluções, aplicando regras de negócio como disponibilidade automática do acervo durante o ciclo de empréstimo.
 
 ---
 
