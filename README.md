@@ -38,30 +38,35 @@ O sistema permite centralizar o controle de livros, usuários, empréstimos e de
 
 ---
 
-## Funcionalidades do Sistema
+##  Funcionalidades do Sistema
 
-### Autenticação
-- Login com usuário e senha
-- Controle de acesso ao sistema
+###  Autenticação
 
-### Gerenciamento de Livros
-- Cadastrar novos livros (título, autor, categoria)
-- Editar informações de livros existentes
-- Excluir livros do acervo
-- Consultar e buscar livros por título ou autor
-- Controle de disponibilidade (disponível / emprestado)
+* Login de acesso ao sistema
+* Validação de usuário e senha
+* Controle de acesso às funcionalidades da aplicação
 
-### Gerenciamento de Usuários
-- Cadastrar novos usuários (nome, CPF, e-mail)
-- Editar dados de usuários
-- Excluir usuários
-- Buscar usuários por nome ou CPF
+###  Gerenciamento de Livros
 
-### Empréstimos e Devoluções
-- Registrar novo empréstimo vinculando livro e usuário
-- Listar empréstimos ativos
-- Registrar devolução de livros
-- Atualização automática da disponibilidade do livro
+* Cadastro de livros com título, autor e categoria
+* Consulta e busca por título ou autor
+* Edição das informações cadastradas
+* Exclusão de livros do acervo
+* Controle de disponibilidade entre **disponível** e **emprestado**
+
+###  Gerenciamento de Usuários
+
+* Cadastro de usuários com nome, CPF e e-mail
+* Consulta e busca por nome ou CPF
+* Atualização dos dados cadastrados
+* Exclusão de usuários
+
+###  Empréstimos e Devoluções
+
+* Registro de empréstimos vinculando livro e usuário
+* Consulta de empréstimos ativos
+* Registro de devolução
+* Atualização automática da disponibilidade do livro após empréstimo ou devolução
 
 ---
 
