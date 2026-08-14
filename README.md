@@ -26,7 +26,7 @@
 ##  Time de Desenvolvedores
 | Nome | Função |
 |------|--------|
-| Enzo | Desenvolvedor Full Stack |
+| Enzo Borsato | Desenvolvimento Java e Banco de Dados|
 
 ---
 
